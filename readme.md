@@ -1,1 +1,2 @@
-#Sales Insight Daata Analysis Project
+# Sales Insight Data Analysis Project
+
